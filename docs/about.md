@@ -5,6 +5,6 @@ Usama is a technical writer who makes technology accessible and human. He turns 
 ## Contact
 
 - Email:
-- GitHub: [0xtakeshi](https://www.github.com/0xtakeshi "K3shi's GitHub")
+- GitHub: [ansari-inc](https://www.github.com/ansari-inc "U. Ansari GitHub")
   
 Go back to the [hompage](index.md)
