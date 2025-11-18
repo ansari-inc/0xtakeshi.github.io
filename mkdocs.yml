@@ -18,8 +18,7 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
-  - Articles: md_articles:
-      - NIST vs ISO: md_articles/NIST_vs_ISO.md
+  - Articles: md_articles/nist_vs_iso.md
 
 markdown_extensions:
   - admonition
