@@ -18,7 +18,8 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
-  - Articles: md_articles/nist_vs_iso.md
+  - Articles: 
+    - Frameworks: frameworks/nist_vs_iso.md
 
 markdown_extensions:
   - admonition

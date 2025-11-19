@@ -92,5 +92,3 @@ Managing multiple frameworks can be complex. Shared Assessments provides the too
 ## Building resilience through frameworks
 
 Compliance isn't just about meeting requirements; it's about building resilience and trust. Whether your organization aligns with NIST, ISO, or both, Shared Assessments can help you strengthen your cybersecurity and risk management strategies.
-
-Connect with our team to learn how Shared Assessments can support your organization in achieving robust, framework-aligned compliance.
