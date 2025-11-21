@@ -5,6 +5,6 @@ Usama is a technical writer who makes technology accessible and human. He turns 
 ## Contact
 
 - Email: [contact@cleardocs.dev](mailto:contact@cleardocs.dev)
-- GitHub: [ansari-inc](https://www.github.com/ansari-inc "U. Ansari GitHub")
+- GitHub: [ansari-inc](https://www.github.com/ansari-inc "CDW's GitHub")
   
 Go back to the [hompage](index.md)

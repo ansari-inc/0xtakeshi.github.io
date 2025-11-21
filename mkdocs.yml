@@ -20,6 +20,7 @@ nav:
   - About: about.md
   - Articles: 
     - Frameworks: frameworks/nist_vs_iso.md
+    - Technology: technology/technical_debt.md
 
 markdown_extensions:
   - admonition
