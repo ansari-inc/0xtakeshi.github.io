@@ -19,7 +19,9 @@ nav:
   - Home: index.md
   - About: about.md
   - Articles: 
-    - Frameworks: frameworks/nist_vs_iso.md
+    - Frameworks: 
+      - frameworks/nist_vs_iso.md
+      - frameworks/vendor_risk.md
     - Technology: technology/technical_debt.md
 
 markdown_extensions:
