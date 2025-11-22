@@ -1,10 +1,16 @@
+---
+hide:
+  - toc
+---
+
 # About
 
-Usama is a technical writer who makes technology accessible and human. He turns complex systems and technical concepts into clear, engaging content for a broad audience. His work bridges the gap between technical detail and everyday understanding. He believes clarity empowers people to use technology effectively.
+Usama provides expert analysis, translating complex industry events and technical 
+challenges into clear strategic direction. He delivers unambiguous content for 
+IT professionals, software developers, and executive leadership. His work 
+synthesizes technical detail into actionable policy. Clarity is the necessary 
+foundation for effective governance and resilient execution.
 
-## Contact
+### Contact
 
-- Email: [contact@cleardocs.dev](mailto:contact@cleardocs.dev)
-- GitHub: [ansari-inc](https://www.github.com/ansari-inc "CDW's GitHub")
-  
-Go back to the [hompage](index.md)
+GitHub: [ansari-inc](https://www.github.com/ansari-inc "CDW's GitHub")
