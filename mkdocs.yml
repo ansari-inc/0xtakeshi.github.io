@@ -19,10 +19,13 @@ nav:
   - Home: index.md
   - About: about.md
   - Articles: 
+    - articles.md
+    
     - Frameworks: 
       - frameworks/nist_vs_iso.md
       - frameworks/vendor_risk.md
-    - Technology: technology/technical_debt.md
+    - Technology: 
+      - technology/technical_debt.md
 
 markdown_extensions:
   - admonition
