@@ -18,9 +18,8 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
-  - Articles: 
+  - Blog: 
     - articles.md
-    
     - Frameworks: 
       - frameworks/nist_vs_iso.md
       - frameworks/vendor_risk.md
