@@ -24,7 +24,7 @@ Hoberman illustrated the challenge by citing a client who spent months and massi
 
 ## Strategy: Four Pillars to Mitigate AI-Driven Debt
 
-Organizations must implement preventative measures to ensure AI serves as a solution, not a hidden source of future expense. Based on findings from the study, here are four critical strategic pillars to minimize new technical debt:
+You must implement preventative measures to ensure AI serves as a solution, not a hidden source of future expense. Based on findings from the study, here are four critical strategic pillars to minimize new technical debt:
 
 ### 1. **Prioritize Traceability and Governance over Rapid Generation**
 
@@ -36,7 +36,7 @@ Shifting models toward outcome-driven architectures minimizes bespoke code creat
 
 ### 3. **Demand Long-Term Strategic Software Investment from Leadership**
 
-It is essential for IT executives to translate software spending into clear business metrics, focusing on outcomes like revenue growth. Iyengar suggested that by quantifying what drives core business operations versus what drives transformation, it becomes "much easier to engage the board in a fact-based conversation about reallocating spend."
+You must translate software spending into clear business metrics, focusing on outcomes like revenue growth. Iyengar suggested that by quantifying what drives core business operations versus what drives transformation, it becomes "much easier to engage the board in a fact-based conversation about reallocating spend."
 
 ### 4. **Mandate Legacy System Modernization**
 
